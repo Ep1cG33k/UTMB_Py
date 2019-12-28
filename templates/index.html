@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>OCT Retinal Layer Segmentation and Edema Fluid Quantification</title>
+
+
+
+      <link rel="stylesheet" href="{{ url_for('static',filename='style.css') }}">
+
+</head>
+
+<body>
+
+		<h1>OCT Retinal Layer Segmentation <span>and Edema Fluid Quantification</span></h1>
+
+
+			<!-- <input type="color" id="colors">
+			 <input type="number" id="lineWidth" style="width:60px" value="0.2" step="0.1" min="0.1"> -->
+
+		<div style="margin-left:175px; margin-top:460px; float:left; position:absolute;">
+
+			<a href="#" class="myButton"><span style=" font-weight: 400; font-family: 'Open Sans', Helvetica;	"> Predict </span></a>
+		</div>
+		<div >
+			<h1 id="result" style="margin-right:20px; margin-top:300px;float:left;"><span> </span></h1>
+		</div>
+
+		<div>
+			<form enctype="multipart/form-data" action="" method="post">
+				<input id="image-file" type="file" name="file"/>
+			</form>
+		</div>
+
+		<div class="loader" style="display:none;"></div>
+
+		<div>
+			<img id="ImgSrc" width="512" height="256">
+		</div>
+
+		<script>
+			function sendfile(){
+
+				//var $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+				var x = document.getElementById('image-file');
+				$.ajax({
+						type: "POST",
+						url: $SCRIPT_ROOT + "/predict/",
+						data: x,
+						success: function(data){
+							$('#result').text(' Predicted Output: '+data);
+						}
+					});
+				alert("here");
+			}
+
+
+		</script>
+
+		<script type="text/javascript" src="/static/jquery-3.4.1.min.js"></script>
+
+	    <script type="text/javascript">
+	   	$(function() {
+	   		$(".myButton").click(function(){
+	   			//var form_data = new FormData($('#image-file')[0]);
+	   			//var img_file= document.getElementById("image-file");
+
+				var fd = new FormData();
+        		var files = $('#image-file')[0].files[0];
+        		fd.append("image-file",files);
+	   			//var img = img_file.toDataURL();
+				//document.getElementById("ImgSrc").src = img_file;
+	   			//alert("here");
+				$("#result").text(' Predicted Output: ');
+	   			$.ajax({
+	   				type: 'POST',
+	   				url: '/predict',
+					//Data can only be JSON object, string or array.
+					data: fd,
+					contentType: false,
+					cache: false,
+					processData: false,
+					async: true
+	   			}).done(function (data) {
+	   				console.log(data);
+	   				var url_upload = data;
+					alert("here");
+					//document.getElementById("ImgSrc").src = url_upload;
+					$("#result").text(data)
+				}).fail(function (data) {
+					console.log(data);
+					alert("error")
+				});
+	   		});
+
+		});
+
+	   </script>
+</body>
+</html>

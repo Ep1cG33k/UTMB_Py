@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5e5d294-3c23-4a54-9e30-79960e08cf4f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/versions/model_v26.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="69072" selection-start-column="69072" selection-end-column="69072" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/predictions/data/oct/AVG_CROP_Output_236-245_OS_V_1x1_0_0000070.OCT-10.tif/avg.csv">
+          <provider selected="true" editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+              <column index="0" width="100" />
+            </state>
+          </provider>
+          <provider editor-type-id="csv-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/predictions/data/oct/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/avg.csv">
+          <provider selected="true" editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+              <column index="0" width="100" />
+            </state>
+          </provider>
+          <provider editor-type-id="csv-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/predictions/data/oct/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/edema_vol.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-68">
+              <caret line="42" column="17" lean-forward="true" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="65" column="12" lean-forward="true" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/versions/model_v24.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1547">
+              <caret column="91623" selection-start-column="91623" selection-end-column="91623" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/process.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3383">
+              <caret line="201" column="46" selection-start-line="201" selection-start-column="46" selection-end-line="201" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/anomaly.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="45" column="51" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="697">
+                <caret line="41" selection-start-line="41" selection-end-line="41" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>myButton</find>
+      <find>tojson</find>
+      <find>load_weights</find>
+      <find>output_padding</find>
+      <find>print</find>
+      <find>output</find>
+      <find>, &quot;output_padding&quot;: null</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/static/style.css" />
+        <option value="$PROJECT_DIR$/model/loss.py" />
+        <option value="$PROJECT_DIR$/static/index.js" />
+        <option value="$PROJECT_DIR$/static/jquery-1.3.2.min.js" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/keras/initializers.py" />
+        <option value="$PROJECT_DIR$/model/custom_layers.py" />
+        <option value="$PROJECT_DIR$/model/model_v2.json" />
+        <option value="$PROJECT_DIR$/model/model_v3.json" />
+        <option value="$PROJECT_DIR$/model/model_v4.json" />
+        <option value="$PROJECT_DIR$/model/model_v5.json" />
+        <option value="$PROJECT_DIR$/model/model_v6.json" />
+        <option value="$PROJECT_DIR$/model/model_v7.json" />
+        <option value="$PROJECT_DIR$/model/model_v8.json" />
+        <option value="$PROJECT_DIR$/model/model_v10.json" />
+        <option value="$PROJECT_DIR$/model/model_v11.json" />
+        <option value="$PROJECT_DIR$/model/model_v12.json" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/model/model_v13.json" />
+        <option value="$PROJECT_DIR$/model/model_v14.json" />
+        <option value="$PROJECT_DIR$/model/model_w1.json" />
+        <option value="$PROJECT_DIR$/model/model_w2.json" />
+        <option value="$PROJECT_DIR$/model/model_v16.json" />
+        <option value="$PROJECT_DIR$/model/model_v17.json" />
+        <option value="$PROJECT_DIR$/model/model_v18.json" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/predictions/tif/AVG_CROP_Output_236-245_OS_V_1x1_0_0000070.OCT-1.tif/cov.txt" />
+        <option value="$PROJECT_DIR$/model/model_v19.json" />
+        <option value="$PROJECT_DIR$/model/process.py" />
+        <option value="$PROJECT_DIR$/anomaly.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/model/versions/model_v24.json" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/model/versions/u_net.json" />
+        <option value="$PROJECT_DIR$/model/load.py" />
+        <option value="$PROJECT_DIR$/model/versions/model_v26.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-12" />
+    <option name="width" value="1522" />
+    <option name="height" value="1930" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UTMB_Py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UTMB_Py" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UTMB_Py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UTMB_Py" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UTMB_Py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UTMB_Py" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UTMB" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="UTMB" sdk-home="C:\Users\ekint\AppData\Local\Programs\Python\Python36\python.exe">
+        <option name="mySdkHome" value="C:\Users\ekint\AppData\Local\Programs\Python\Python36\python.exe" />
+        <option name="myModuleName" value="UTMB" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ekint\PycharmProjects\UTMB_Py\data\oct" />
+      <recent name="D:\UTMB_Py\data\oct" />
+      <recent name="D:\UTMB_Py" />
+      <recent name="F:\UTMB_Py\data" />
+      <recent name="C:\Users\ekint\PycharmProjects\UTMB\model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ekint\PycharmProjects\UTMB_Py\data\oct" />
+      <recent name="C:\Users\ekint\PycharmProjects\UTMB_Py\data\used" />
+      <recent name="C:\Users\ekint\PycharmProjects\UTMB_Py\model\versions" />
+      <recent name="D:\UTMB_Py\data\oct" />
+      <recent name="D:\UTMB_Py\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UTMB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UTMB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5e5d294-3c23-4a54-9e30-79960e08cf4f" name="Default Changelist" comment="" />
+      <created>1561404326327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561404326327</updated>
+      <workItem from="1561418022149" duration="47417000" />
+      <workItem from="1561654231887" duration="15199000" />
+      <workItem from="1561992740209" duration="14972000" />
+      <workItem from="1562031122771" duration="5000" />
+      <workItem from="1562076640201" duration="13926000" />
+      <workItem from="1562338738439" duration="5083000" />
+      <workItem from="1562605552413" duration="11899000" />
+      <workItem from="1562792977938" duration="24844000" />
+      <workItem from="1562948992157" duration="4399000" />
+      <workItem from="1562959640076" duration="6859000" />
+      <workItem from="1563205806573" duration="136000" />
+      <workItem from="1563205913747" duration="5723000" />
+      <workItem from="1563286879676" duration="3047000" />
+      <workItem from="1563811428543" duration="891000" />
+      <workItem from="1563826316906" duration="725000" />
+      <workItem from="1563830612756" duration="1274000" />
+      <workItem from="1564073691279" duration="2364000" />
+      <workItem from="1564162366656" duration="10511000" />
+      <workItem from="1564410490034" duration="5736000" />
+      <workItem from="1565023930167" duration="16517000" />
+      <workItem from="1566253558534" duration="614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="192141000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="0" width="761" height="965" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3929078" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" sideWeight="0.49828413" weight="0.32790697" />
+      <window_info anchor="bottom" id="TODO" order="4" sideWeight="0.4992908" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.48510638" weight="0.2715311" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49787235" weight="0.39952153" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32965118" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5148936" side_tool="true" weight="0.3325359" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32875773" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.6569893" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UTMB$test.coverage" NAME="test Coverage Results" MODIFIED="1562959441943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UTMB_Py$app.coverage" NAME="app Coverage Results" MODIFIED="1566265634330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UTMB$app.coverage" NAME="app Coverage Results" MODIFIED="1562864295508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UTMB_Py$test.coverage" NAME="test Coverage Results" MODIFIED="1565111718161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/predictions/tif/T14-ave_C22-093_OD.tif/avg.txt" />
+    <entry file="file://$PROJECT_DIR$/predictions/tif/cropped_test.tif/local_avg.txt" />
+    <entry file="file://$PROJECT_DIR$/predictions/tif/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/cov.txt" />
+    <entry file="file://$PROJECT_DIR$/predictions/tif/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/local_avg.txt" />
+    <entry file="file://$PROJECT_DIR$/tif/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif" />
+    <entry file="file://$PROJECT_DIR$/predictions/tif/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/avg.txt" />
+    <entry file="file://$PROJECT_DIR$/predictions/tif/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/std.txt" />
+    <entry file="file://$PROJECT_DIR$/model/versions/model_v19.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret column="55531" selection-start-column="55531" selection-end-column="55531" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predictions/data/CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/avg.csv" />
+    <entry file="file://$PROJECT_DIR$/predictions/data/CROP_Output_236-245_OS_V_1x1_0_0000094.OCT-1.tif/avg.csv" />
+    <entry file="file://$PROJECT_DIR$/predictions/data/CROP_Output_236-245_OS_V_1x1_0_0000094.OCT-1.tif/std.csv" />
+    <entry file="file://$PROJECT_DIR$/used_data/Output_237-250_OD_V_1x1_0_0000002.OCT-1_3.tif" />
+    <entry file="file://$PROJECT_DIR$/used_data/Output_236-257_OS_V_1x1_0_0000014.OCT-1_3.tif" />
+    <entry file="file://$PROJECT_DIR$/used_data/Output_236-246_OD_V_1x1_0_0000002.OCT-1_3.tif" />
+    <entry file="file://$PROJECT_DIR$/segment.tif" />
+    <entry file="file://$PROJECT_DIR$/numpy.npy" />
+    <entry file="file://$PROJECT_DIR$/predictions/tif/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/local_avg.csv" />
+    <entry file="file://$PROJECT_DIR$/predictions/tif/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/local_avg_per_slice.txt" />
+    <entry file="file://$PROJECT_DIR$/predictions/tif/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/segment.tif" />
+    <entry file="file://$PROJECT_DIR$/predictions/tif/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/std.csv" />
+    <entry file="file://$PROJECT_DIR$/predictions/tif/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/avg.csv" />
+    <entry file="file://$PROJECT_DIR$/predictions/tif/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/cov.csv" />
+    <entry file="file://$PROJECT_DIR$/AnomalyViewer.ijm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predictions/data/Output_191-233_OD_V_1x1_0_0000002.OCT-1_0.tif/cov.csv" />
+    <entry file="file://$PROJECT_DIR$/predictions/data/Output_191-233_OD_V_1x1_0_0000002.OCT-1_0.tif/avg.csv" />
+    <entry file="file://$PROJECT_DIR$/data/oct/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif" />
+    <entry file="file://$PROJECT_DIR$/predictions/data/oct/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/std.csv" />
+    <entry file="file://$PROJECT_DIR$/ae/load_cae.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ae/load_ae.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predictions/data/oct/AVG_CROP_Output_236-245_OD_V_1x1_0_0000058.OCT.tif/anomalies/anom.csv" />
+    <entry file="file://$PROJECT_DIR$/predictions/data/oct/AVG_CROP_Output_236-245_OD_V_1x1_0_0000058.OCT.tif/anomalies/cae_anomalies.csv" />
+    <entry file="file://$PROJECT_DIR$/ae/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-896" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predictions/data/oct/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/anomalies/cae_anomalies.csv" />
+    <entry file="file://$PROJECT_DIR$/predictions/data/oct/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/cae_anomalies.csv" />
+    <entry file="file://$PROJECT_DIR$/predictions/data/oct/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/anomalies/anom.csv" />
+    <entry file="file://$PROJECT_DIR$/predictions/data/oct/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/local_avg.csv">
+      <provider selected="true" editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+          <column index="3" width="100" />
+          <column index="4" width="100" />
+          <column index="5" width="100" />
+          <column index="6" width="100" />
+          <column index="7" width="100" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/versions/u_net.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13288" selection-start-column="13288" selection-end-column="13288" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/versions/u_net.h5">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2312">
+          <caret line="147" column="32" selection-start-line="147" selection-start-column="32" selection-end-line="147" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/load.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/versions/model_v26.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="69072" selection-start-column="69072" selection-end-column="69072" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predictions/data/oct/AVG_CROP_Output_236-245_OS_V_1x1_0_0000070.OCT-10.tif/avg.csv">
+      <provider selected="true" editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predictions/data/oct/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/avg.csv">
+      <provider selected="true" editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/versions/model_v24.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret column="91623" selection-start-column="91623" selection-end-column="91623" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3383">
+          <caret line="201" column="46" selection-start-line="201" selection-start-column="46" selection-end-line="201" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anomaly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="45" column="51" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="697">
+            <caret line="41" selection-start-line="41" selection-end-line="41" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predictions/data/oct/AVG_CROP_Output_236-245_OD_V_1x1_0_0000028.OCT-1.tif/edema_vol.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="42" column="17" lean-forward="true" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="65" column="12" lean-forward="true" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
